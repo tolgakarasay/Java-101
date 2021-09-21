@@ -1,4 +1,3 @@
-import javax.swing.plaf.basic.BasicSplitPaneUI;
 import java.util.Scanner;
 
 public class Main {
