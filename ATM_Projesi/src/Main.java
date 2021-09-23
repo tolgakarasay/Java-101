@@ -46,6 +46,7 @@ public class Main {
                             break;
                     }
                 } while (select != 4);
+                System.out.println("Tekrar görüşmek üzere!");
 
             } else if (right == 0) {
                 System.out.println("Hesabınız bloke olmuştur lütfen banka ile iletişime geçiniz.");
